@@ -16,6 +16,7 @@ https://raw.githubusercontent.com/romain-hebert/feedbro-locale-fr/master/feedbro
   - Pour mettre à jour, sélectionner: Mise à jour de la Locale.
 
 ### Changelog
+* 12/06/2024 - Version 1.14 (Udated metadata)
 * 12/06/2024 - Version 1.13 ( "'" => "’", "-" => "–", Possibilités => Paramètres)
 * 24/07/2022 - Version 1.12 (Correction lignes 417 à 420 manquantes)
 * 18/07/2020 - Version 1.11 (Correction lignes 354 et 355 manquantes)
